@@ -11,11 +11,13 @@ I have experience designing and developing full-stack applications using .NET, R
 ## 🛠️ Technical Skills
 
 ### Backend
-- C#
+- C# / C /C++
 - ASP.NET Core
 - REST APIs
 - Entity Framework Core
 - JWT Authentication
+- Python
+- Spring Boot(JAVA)
 
 ### Frontend
 - React
@@ -106,19 +108,14 @@ Full-stack ERP solution developed to digitalize and centralize commercial, logis
 
 Here are some of the projects available on my GitHub:
 
-- **PartFinder ERP** — Full-stack business management system
-- **ASP.NET Core APIs** — REST API and backend development projects
-- **React Applications** — Frontend and full-stack projects
-- **Testing Projects** — Unit and integration testing with .NET
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn profile]
-- Email: [Your email]
-- GitHub: [Your GitHub profile]
+- LinkedIn: [https://www.linkedin.com/in/hamza-el-amrani-779336305/]
+- Email: [elamrani.h808@gmail.com]
+- GitHub: [github.com/elamrani7]
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
