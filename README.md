@@ -115,7 +115,7 @@ Here are some of the projects available on my GitHub:
 
 - LinkedIn: [https://www.linkedin.com/in/hamza-el-amrani-779336305/]
 - Email: [elamrani.h808@gmail.com]
-- GitHub: [github.com/elamrani7]
+- GitHub: [github.com/ElamraniHamza]
 
 ---
 
